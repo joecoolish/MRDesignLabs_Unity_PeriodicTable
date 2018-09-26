@@ -13,6 +13,7 @@ You can use this project's components to create your own mixed reality app exper
 <img src="https://github.com/Microsoft/MRDesignLabs_Unity_PeriodicTable/blob/master/External/ReadMeImages/PeriodicTable_Hero.jpg" alt="Periodic Table of the Elements">
 
 
+
 # Supported Unity version: 2017.2.0P1-MRTP4
 The current supported version of Unity is [**Unity 2017.2.0p1-MRTP4**](http://beta.unity3d.com/download/b1565bfe4a0c/UnityDownloadAssistant.exe). 
 
